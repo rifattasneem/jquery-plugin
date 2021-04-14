@@ -1,0 +1,42 @@
+
+.bc{
+	font-size: 20px;
+}
+
+#text1
+{
+    margin:           3.0em 0.0em;
+    overflow:         hidden;
+    font:             normal normal normal 2.0em/1.5 'Open Sans Light', sans-serif;
+    color:            #ffffff;
+    background-color: #3fafee;
+}
+
+
+/*wow*/
+.box{
+	min-height: 100px;
+	color: white;
+	background-color: teal;
+	border-radius: 5px;
+}
+
+.box2{
+	background-color: #a93d3d;
+}
+
+.box3{
+	background-color: #5781c8;
+}
+
+.box4{
+	background-color: #9d9d6e;
+}
+/*wow*/
+/*counter*/
+span{
+	font-size: 50px;
+	font-weight: 400;
+}
+/*counter*/
+
